@@ -1,46 +1,61 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Junu%20Kim&fontSize=90&desc=Welcome%20to%20my%20toy%20box!&fontAlignY=30)
 
-### (Undergraduate for Bachelor) 🏫 Seoultech ITM 
 
+## About Me  
+🎓 **Undergraduate Student at SeoulTech (ITM Major)**  
+💡 Passionate about **Computer Vision**, **Machine Learning**, and **Animal Behavior Analysis**  
+📘 Interested in applying **Machine Learning** to real-world animal behavioral studies
 
-### 1. Stacks
-   
+---
+
+## 🧠 Tech Stacks  
+
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=%23356D9D&color=%23d3d3d3)
 ![Static Badge](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=%232BB7F6&color=%23d3d3d3)
 ![Static Badge](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=%2302569B&color=%23d3d3d3)
 ![Static Badge](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=%23009688&color=%23d3d3d3)
 
+---
 
-### 2. Tools
+## ⚙️ Tools  
 
-![Static Badge](https://img.shields.io/badge/Intellij%20IDEA-%23000000?style=for-the-badge&logo=intellijidea&logoColor=%232F2044&labelColor=%23E83465&color=d3d3d3)
+![Static Badge](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?style=for-the-badge&logo=intellijidea&logoColor=%232F2044&labelColor=%23E83465&color=d3d3d3)
+![Static Badge](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=%23007ACC&color=%23d3d3d3)
+![Static Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717&color=%23d3d3d3)
 
 ---
 
-## Projects
+## 🏆 Certifications  
 
-### 📡 [NotificationChecker](https://github.com/MelonChicken/NotificationChecker)
+| Certification | Issued by | Description (EN) |
+|---------------|------------|------------------|
+| [**ADsP (Advanced Data Analytics Semi-Professional)**](https://www.dataq.or.kr/www/sub/a_07.do) | Korea Data Agency | Certification for understanding and applying basic data analysis techniques including statistics, visualization, and data-driven insights. |
+| [**SQLD (SQL Developer)**](https://www.dataq.or.kr/www/sub/a_04.do) | Korea Data Agency | Demonstrates competence in database design, SQL query optimization, and structured data extraction using SQL. |
+
+---
+
+## 🚀 Projects  
+
+### 📡 [NotificationChecker](https://github.com/MelonChicken/NotificationChecker)  
 > **Type:** Automation Bot  
-> **Description:** A Python-based Discord bot that automatically sends notifications when new updates appear on target websites.
+> **Description:** A Python-based Discord bot that automatically sends notifications when new updates appear on target websites.  
 
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=%23356D9D&color=%23d3d3d3)
 ![Static Badge](https://img.shields.io/badge/DiscordBot-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=%23d3d3d3)
 
 
-
-### 🛰️ [GovPulse](https://github.com/MelonChicken/GovPulse)
+### 🛰️ [GovPulse](https://github.com/MelonChicken/GovPulse)  
 > **Type:** Web Monitoring Service  
-> **Description:** A FastAPI-based system that monitors Korean government (.go.kr) sites and evaluates their health status automatically.
+> **Description:** A FastAPI-based system that monitors Korean government (.go.kr) sites and evaluates their health status automatically.  
 
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=%23356D9D&color=%23d3d3d3)
 ![Static Badge](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=%23009688&color=%23d3d3d3)
 ![Static Badge](https://img.shields.io/badge/WebMonitor-3C3C3D?style=for-the-badge&logo=datadog&logoColor=white&labelColor=%233C3C3D&color=%23d3d3d3)
 
 
-
-### 📰 [Newsboy](https://github.com/MelonChicken/Newsboy)
+### 📰 [Newsboy](https://github.com/MelonChicken/Newsboy)  
 > **Type:** Web Scraping & Text Analysis  
-> **Description:** A Korean news crawler that collects articles and performs NLP-based keyword and frequency analysis.
+> **Description:** A Korean news crawler that collects articles and performs NLP-based keyword and frequency analysis.  
 
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=%23356D9D&color=%23d3d3d3)
 ![Static Badge](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=%234B8BBE&color=%23d3d3d3)
@@ -48,10 +63,13 @@
 
 ---
 
+## 📊 My GitHub Stats  
 
-## My GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelonChicken&layout=compact&theme=holi)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelonChicken&show_icons=true&theme=gruvbox&animation=fadeIn)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelonChicken&layout=compact&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelonChicken&show_icons=true&theme=transparent)
 
-## My Programming Study Stats
+---
+
+## 🧩 My Programming Study Stats  
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=osca0724)](https://solved.ac/osca0724/)
