@@ -9,6 +9,7 @@
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=%23356D9D&color=%23d3d3d3)
 ![Static Badge](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=%232BB7F6&color=%23d3d3d3)
 ![Static Badge](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=%2302569B&color=%23d3d3d3)
+![Static Badge](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=%23009688&color=%23d3d3d3)
 
 ---
 
