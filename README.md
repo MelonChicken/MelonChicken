@@ -2,24 +2,22 @@
 
 ### (Undergraduate for Bachelor) 🏫 Seoultech ITM 
 
----
 
-#### 1. Stacks
+### 1. Stacks
    
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=%23356D9D&color=%23d3d3d3)
 ![Static Badge](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=%232BB7F6&color=%23d3d3d3)
 ![Static Badge](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=%2302569B&color=%23d3d3d3)
 ![Static Badge](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=%23009688&color=%23d3d3d3)
 
----
 
-#### 2. Tools
+### 2. Tools
 
 ![Static Badge](https://img.shields.io/badge/Intellij%20IDEA-%23000000?style=for-the-badge&logo=intellijidea&logoColor=%232F2044&labelColor=%23E83465&color=d3d3d3)
 
 ---
 
-### Projects
+## Projects
 
 ### 📡 [NotificationChecker](https://github.com/MelonChicken/NotificationChecker)
 > **Type:** Automation Bot  
@@ -28,7 +26,7 @@
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=%23356D9D&color=%23d3d3d3)
 ![Static Badge](https://img.shields.io/badge/DiscordBot-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=%23d3d3d3)
 
----
+
 
 ### 🛰️ [GovPulse](https://github.com/MelonChicken/GovPulse)
 > **Type:** Web Monitoring Service  
@@ -38,7 +36,7 @@
 ![Static Badge](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=%23009688&color=%23d3d3d3)
 ![Static Badge](https://img.shields.io/badge/WebMonitor-3C3C3D?style=for-the-badge&logo=datadog&logoColor=white&labelColor=%233C3C3D&color=%23d3d3d3)
 
----
+
 
 ### 📰 [Newsboy](https://github.com/MelonChicken/Newsboy)
 > **Type:** Web Scraping & Text Analysis  
@@ -51,9 +49,9 @@
 ---
 
 
-### My GitHub Stats
+## My GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelonChicken&layout=compact&theme=holi)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelonChicken&show_icons=true&theme=gruvbox&animation=fadeIn)
 
-### My Programming Study Stats
+## My Programming Study Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=osca0724)](https://solved.ac/osca0724/)
