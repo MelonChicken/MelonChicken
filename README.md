@@ -28,8 +28,6 @@
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=%23356D9D&color=%23d3d3d3)
 ![Static Badge](https://img.shields.io/badge/DiscordBot-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=%23d3d3d3)
 
-[![View Repository](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=%23000000&color=%23d3d3d3)](https://github.com/MelonChicken/NotificationChecker)
-
 ---
 
 ### 🛰️ [GovPulse](https://github.com/MelonChicken/GovPulse)
@@ -40,8 +38,6 @@
 ![Static Badge](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=%23009688&color=%23d3d3d3)
 ![Static Badge](https://img.shields.io/badge/WebMonitor-3C3C3D?style=for-the-badge&logo=datadog&logoColor=white&labelColor=%233C3C3D&color=%23d3d3d3)
 
-[![View Repository](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=%23000000&color=%23d3d3d3)](https://github.com/MelonChicken/GovPulse)
-
 ---
 
 ### 📰 [Newsboy](https://github.com/MelonChicken/Newsboy)
@@ -51,8 +47,6 @@
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=%23356D9D&color=%23d3d3d3)
 ![Static Badge](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=%234B8BBE&color=%23d3d3d3)
 ![Static Badge](https://img.shields.io/badge/KoNLPy-0099CC?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=%230099CC&color=%23d3d3d3)
-
-[![View Repository](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=%23000000&color=%23d3d3d3)](https://github.com/MelonChicken/Newsboy)
 
 ---
 
