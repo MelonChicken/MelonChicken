@@ -66,7 +66,7 @@
 ## 📊 My GitHub Stats  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelonChicken&layout=compact&theme=transparent)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MelonChicken&theme=github)
 ---
 
 ## 🧩 My Programming Study Stats  
