@@ -31,7 +31,7 @@
 |---------------|------------|------------------|
 | [**ADsP (Advanced Data Analytics Semi-Professional)**](https://www.dataq.or.kr/www/sub/a_07.do) | Korea Data Agency | Certification for understanding and applying basic data analysis techniques including statistics, visualization, and data-driven insights. |
 | [**SQLD (SQL Developer)**](https://www.dataq.or.kr/www/sub/a_04.do) | Korea Data Agency | Demonstrates competence in database design, SQL query optimization, and structured data extraction using SQL. |
-
+| **[Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification)** | Microsoft | Validates foundational knowledge of AI concepts and Azure AI services, including machine learning, computer vision, and NLP basics. |
 ---
 
 ## 🚀 Projects  
