@@ -6,6 +6,8 @@
 💡 Passionate about **Computer Vision**, **Machine Learning**, and **Animal Behavior Analysis**  
 📘 Interested in applying **Machine Learning** to real-world animal behavioral studies
 
+| [Reading Notes in Korean](https://velog.io/@melon-chicken/series/Reading-Note) | [Research Notes in Korean](https://velog.io/@melon-chicken/series/Research-Note) | [Computer Vision Study in Korean](https://velog.io/@melon-chicken/series/Computer-Vision) |
+|---------------|------------|------------------|
 ---
 
 ## 🧠 Tech Stacks  
