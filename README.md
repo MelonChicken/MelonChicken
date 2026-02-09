@@ -38,8 +38,18 @@
 
 ## 🚀 Projects  
 
+### 📡 [Research Radar](https://github.com/MelonChicken/radar)
+> **Type:** Market Intelligence Dashboard
+> 
+> **Description:** An AI-powered Streamlit dashboard that continuously monitors global research reports, filters out noise with LLMs, and surfaces concrete business opportunities and technology gaps for startups.
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=%23356D9D&color=%23d3d3d3)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=%23E24343&color=%23d3d3d3)](https://streamlit.io/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white&labelColor=%23111111&color=%23d3d3d3)](https://platform.openai.com/)
+
 ### 📡 [NotificationChecker](https://github.com/MelonChicken/NotificationChecker)  
-> **Type:** Automation Bot  
+> **Type:** Automation Bot
+> 
 > **Description:** A Python-based Discord bot that automatically sends notifications when new updates appear on target websites.  
 
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=%23356D9D&color=%23d3d3d3)
@@ -47,7 +57,8 @@
 
 
 ### 🛰️ [GovPulse](https://github.com/MelonChicken/GovPulse)  
-> **Type:** Web Monitoring Service  
+> **Type:** Web Monitoring Service
+> 
 > **Description:** A FastAPI-based system that monitors Korean government (.go.kr) sites and evaluates their health status automatically.  
 
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=%23356D9D&color=%23d3d3d3)
