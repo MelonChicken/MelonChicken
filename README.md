@@ -36,7 +36,7 @@
 | **[Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification)** | Microsoft | Validates foundational knowledge of AI concepts and Azure AI services, including machine learning, computer vision, and NLP basics. |
 ---
 
-## 🚀 Projects  
+## 🚀 [Projects](https://www.notion.so/ml-c/22614b84a0f280309de1c5d3fc2798cb?v=2ec14b84a0f2807a9f66000c79db22b9&source=copy_link)  
 
 ### 📡 [Research Radar](https://github.com/MelonChicken/radar)
 > **Type:** Market Intelligence Dashboard
