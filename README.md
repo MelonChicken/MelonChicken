@@ -38,7 +38,7 @@
 
 ## 🚀 [Projects](https://www.notion.so/ml-c/22614b84a0f280309de1c5d3fc2798cb?v=2ec14b84a0f2807a9f66000c79db22b9&source=copy_link)  
 
-### 📡 [Research Radar](https://github.com/MelonChicken/radar)
+### 📡 [Research Radar](https://github.com/MelonChicken/opportunity-radar)
 > **Type:** Market Intelligence Dashboard
 > 
 > **Description:** An AI-powered Streamlit dashboard that continuously monitors global research reports, filters out noise with LLMs, and surfaces concrete business opportunities and technology gaps for startups.
