@@ -29,6 +29,7 @@
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=%23356D9D&color=%23d3d3d3)
 ![Static Badge](https://img.shields.io/badge/DiscordBot-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=%23d3d3d3)
 
+---
 ## 🧠 Tech Stacks  
 
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=%23356D9D&color=%23d3d3d3)
@@ -36,7 +37,6 @@
 ![Static Badge](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=%2302569B&color=%23d3d3d3)
 ![Static Badge](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=%23009688&color=%23d3d3d3)
 
----
 
 ## ⚙️ Tools  
 
