@@ -1,14 +1,33 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Junu%20Kim&fontSize=90&desc=Welcome%20to%20my%20toy%20box!&fontAlignY=30)
 
-
 ## About Me  
 🎓 **Undergraduate Student at SeoulTech (ITM Major)**  
-💡 Passionate about **Computer Vision**, **Machine Learning**, and **Animal Behavior Analysis**  
-📘 Interested in applying **Machine Learning** to real-world animal behavioral studies
+💡 Focused on **Computer Vision** and **Machine Learning**  
+📘 Exploring real-world **ML** applications in **animal behavior analysis**
+
 
 | [Reading Notes in Korean](https://velog.io/@melon-chicken/series/Reading-Note) | [Research Notes in Korean](https://velog.io/@melon-chicken/series/Research-Note) | [Computer Vision Study in Korean](https://velog.io/@melon-chicken/series/Computer-Vision) |
 |---------------|------------|------------------|
 ---
+
+## 🚀 [Featured Projects](https://www.notion.so/ml-c/22614b84a0f280309de1c5d3fc2798cb?v=2ec14b84a0f2807a9f66000c79db22b9&source=copy_link)  
+
+### 📡 [Research Radar](https://github.com/MelonChicken/opportunity-radar)
+> **Type:** Market Intelligence Dashboard
+> 
+> **Description:** An AI-powered Streamlit dashboard that continuously monitors global research reports, filters out noise with LLMs, and surfaces concrete business opportunities and technology gaps for startups.
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=%23356D9D&color=%23d3d3d3)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=%23E24343&color=%23d3d3d3)](https://streamlit.io/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white&labelColor=%23111111&color=%23d3d3d3)](https://platform.openai.com/)
+
+### 📡 [NotificationChecker](https://github.com/MelonChicken/NotificationChecker)  
+> **Type:** Automation Bot
+> 
+> **Description:** A Python-based Discord bot that automatically sends notifications when new updates appear on target websites.  
+
+![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=%23356D9D&color=%23d3d3d3)
+![Static Badge](https://img.shields.io/badge/DiscordBot-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=%23d3d3d3)
 
 ## 🧠 Tech Stacks  
 
@@ -35,35 +54,6 @@
 | [**SQLD (SQL Developer)**](https://www.dataq.or.kr/www/sub/a_04.do) | Korea Data Agency | Demonstrates competence in database design, SQL query optimization, and structured data extraction using SQL. |
 | **[Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification)** | Microsoft | Validates foundational knowledge of AI concepts and Azure AI services, including machine learning, computer vision, and NLP basics. |
 ---
-
-## 🚀 [Projects](https://www.notion.so/ml-c/22614b84a0f280309de1c5d3fc2798cb?v=2ec14b84a0f2807a9f66000c79db22b9&source=copy_link)  
-
-### 📡 [Research Radar](https://github.com/MelonChicken/opportunity-radar)
-> **Type:** Market Intelligence Dashboard
-> 
-> **Description:** An AI-powered Streamlit dashboard that continuously monitors global research reports, filters out noise with LLMs, and surfaces concrete business opportunities and technology gaps for startups.
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=%23356D9D&color=%23d3d3d3)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=%23E24343&color=%23d3d3d3)](https://streamlit.io/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white&labelColor=%23111111&color=%23d3d3d3)](https://platform.openai.com/)
-
-### 📡 [NotificationChecker](https://github.com/MelonChicken/NotificationChecker)  
-> **Type:** Automation Bot
-> 
-> **Description:** A Python-based Discord bot that automatically sends notifications when new updates appear on target websites.  
-
-![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=%23356D9D&color=%23d3d3d3)
-![Static Badge](https://img.shields.io/badge/DiscordBot-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=%23d3d3d3)
-
-
-### 🛰️ [GovPulse](https://github.com/MelonChicken/GovPulse)  
-> **Type:** Web Monitoring Service
-> 
-> **Description:** A FastAPI-based system that monitors Korean government (.go.kr) sites and evaluates their health status automatically.  
-
-![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=%23356D9D&color=%23d3d3d3)
-![Static Badge](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=%23009688&color=%23d3d3d3)
-![Static Badge](https://img.shields.io/badge/WebMonitor-3C3C3D?style=for-the-badge&logo=datadog&logoColor=white&labelColor=%233C3C3D&color=%23d3d3d3)
 
 ---
 
