@@ -63,5 +63,6 @@
 ---
 
 ## 🧩 My Programming Study Stats  
+### Now I'm studying in [Hackerrank](https://www.hackerrank.com/profile/kimjunu)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=osca0724)](https://solved.ac/osca0724/)
