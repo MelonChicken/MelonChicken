@@ -6,7 +6,7 @@
 📘 Exploring real-world **ML** applications in **animal behavior analysis**
 
 
-| [Reading Notes in Korean](https://velog.io/@melon-chicken/series/Reading-Note) | [Research Notes in Korean](https://velog.io/@melon-chicken/series/Research-Note) | [Computer Vision Study in Korean](https://velog.io/@melon-chicken/series/Computer-Vision) |
+| [Reading Notes in Korean](https://melonchicken.github.io/notes/?type=paper-review) | [Research Notes in Korean](https://melonchicken.github.io/notes/?type=learning-note) | [Computer Vision Study in Korean](https://melonchicken.github.io/notes/?domain=Computer+Vision) |
 |---------------|------------|------------------|
 ---
 ## 🚀 [Featured Projects](https://www.notion.so/ml-c/22614b84a0f280309de1c5d3fc2798cb?v=2ec14b84a0f2807a9f66000c79db22b9&source=copy_link)
@@ -35,20 +35,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white\&labelColor=%23F7931E\&color=%23d3d3d3)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white\&labelColor=%235C3EE8\&color=%23d3d3d3)
 
-### 🏛️ ArchiTag
-> #### [Notion](https://www.notion.so/ml-c/ArchiTag-AI-34714b84a0f280ec99e9d1fbb2237b1a?v=2ec14b84a0f2807a9f66000c79db22b9&source=copy_link)
-
-> **Status:** Planned
->
-> **Type:** Vision-Language Model / Archive Metadata Automation
->
-> **Description:** A planned VLM-based metadata generation system for presidential audiovisual records. It aims to automatically generate content descriptions and event categories from archival photos, then compare AI-only, human-only, and human-in-the-loop workflows for metadata quality and efficiency.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white\&labelColor=%23356D9D\&color=%23d3d3d3)
-![VLM](https://img.shields.io/badge/VLM-6A5ACD?style=for-the-badge\&logoColor=white\&labelColor=%236A5ACD\&color=%23d3d3d3)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white\&labelColor=%23111111\&color=%23d3d3d3)
-![BPMN](https://img.shields.io/badge/BPMN-FFB000?style=for-the-badge\&logoColor=white\&labelColor=%23FFB000\&color=%23d3d3d3)
-
 ---
 ## 🧠 Tech Stacks  
 
@@ -70,9 +56,10 @@
 
 | Certification | Issued by | Description (EN) |
 |---------------|------------|------------------|
-| [**ADsP (Advanced Data Analytics Semi-Professional)**](https://www.dataq.or.kr/www/sub/a_07.do) | Korea Data Agency | Certification for understanding and applying basic data analysis techniques including statistics, visualization, and data-driven insights. |
-| [**SQLD (SQL Developer)**](https://www.dataq.or.kr/www/sub/a_04.do) | Korea Data Agency | Demonstrates competence in database design, SQL query optimization, and structured data extraction using SQL. |
-| **[Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification)** | Microsoft | Validates foundational knowledge of AI concepts and Azure AI services, including machine learning, computer vision, and NLP basics. |
+| [**ADsP (Advanced Data Analytics Semi-Professional)**](https://www.dataq.or.kr/www/sub/a_06.do) | Korea Data Agency | Validates foundational knowledge of data understanding, analytics planning, and practical data analysis. |
+| [**SQLD (SQL Developer)**](https://www.dataq.or.kr/www/sub/a_04.do) | Korea Data Agency | Demonstrates competence in data modeling, SQL-based data manipulation, and structured data extraction. |
+| [**AICE Associate (AI Certificate for Everyone)**](https://aice.study/info/aice/asso) | KT & Korea Economic Daily | Validates hands-on skills in Python-based data processing, analysis, and AI modeling through a practical examination. |
+| [**Microsoft Certified: Azure AI Fundamentals**](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) | Microsoft | Validates foundational knowledge of machine learning, computer vision, NLP, generative AI, and Azure AI services. |
 ---
 
 ---
