@@ -36,21 +36,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white\&labelColor=%235C3EE8\&color=%23d3d3d3)
 
 ---
-## 🧠 Tech Stacks  
-
-![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=%23356D9D&color=%23d3d3d3)
-![Static Badge](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=%232BB7F6&color=%23d3d3d3)
-![Static Badge](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=%2302569B&color=%23d3d3d3)
-![Static Badge](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=%23009688&color=%23d3d3d3)
-
-
-## ⚙️ Tools  
-
-![Static Badge](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?style=for-the-badge&logo=intellijidea&logoColor=%232F2044&labelColor=%23E83465&color=d3d3d3)
-![Static Badge](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=%23007ACC&color=%23d3d3d3)
-![Static Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717&color=%23d3d3d3)
-
----
 
 ## 🏆 Certifications  
 
@@ -61,18 +46,3 @@
 | [**AICE Associate (AI Certificate for Everyone)**](https://aice.study/info/aice/asso) | KT & Korea Economic Daily | Validates hands-on skills in Python-based data processing, analysis, and AI modeling through a practical examination. |
 | [**Microsoft Certified: Azure AI Fundamentals**](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) | Microsoft | Validates foundational knowledge of machine learning, computer vision, NLP, generative AI, and Azure AI services. |
 ---
-
----
-
-## 📊 My GitHub Stats  
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MelonChicken&theme=github)
----
-
-## 🧩 My Programming Study Stats  
-### Now I'm studying in [Hackerrank](https://www.hackerrank.com/profile/kimjunu)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/kimjunu)
-
-[![HackerRank badges](https://hackerrank-badges.vercel.app/kimjunu)](https://www.hackerrank.com/profile/kimjunu)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=osca0724)](https://solved.ac/osca0724/)
